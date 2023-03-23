@@ -1,0 +1,3 @@
+seed phrase: "turn shaft venture reflect install bounce indoor armor clarify wool flame mechanic"
+
+contract address: KT1QWt7hK65g7D9hThxgziFuhEogT8MF5EbQ
